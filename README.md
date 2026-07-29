@@ -1,3 +1,4 @@
+<img width="651" height="633" alt="Screenshot 2026-07-29 at 11 57 04 AM" src="https://github.com/user-attachments/assets/4a0187fb-8720-4ce9-9ced-e5cc9459c0ac" />
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 21225240062
 # Name: Joshua Abraham Philip A
@@ -127,6 +128,7 @@ Describe the steps performed in a UML use case.
 
 # SEQUENCE DIAGRAM
 
+<img width="683" height="692" alt="Screenshot 2026-07-29 at 11 57 21 AM" src="https://github.com/user-attachments/assets/ece893da-1044-4140-8c92-4083c7cf28de" />
 
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for

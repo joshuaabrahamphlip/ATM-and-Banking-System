@@ -1,4 +1,3 @@
-<img width="651" height="633" alt="Screenshot 2026-07-29 at 11 57 04 AM" src="https://github.com/user-attachments/assets/4a0187fb-8720-4ce9-9ced-e5cc9459c0ac" />
 # ATM-AND-BANKING-SYSTEM
 # Reg No: 21225240062
 # Name: Joshua Abraham Philip A
